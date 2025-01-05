@@ -113,7 +113,7 @@
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card shadow-sm text-center">
               <div class="icon-wrapper mx-auto mt-3">
-                <img src="/assets/image/tsm.png" alt="TBSM" class="icon-img" />
+                <img src="/assets/image/Tsm.webp" alt="TBSM" class="icon-img" />
               </div>
               <div class="card-body">
                 <h5 class="card-title">TBSM</h5>
